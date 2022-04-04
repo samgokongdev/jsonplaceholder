@@ -1,12 +1,11 @@
 {
-  "soals": [
+  "posts": [
     {
       "id": 1,
-      "soal": "The Great Wall di china dibuat pada zaman dinasti qin dan selesai pada zaman dinasti han"
-    },
-     {
-      "id": 2,
-      "soal": "Nama lengkap soekarno adalah Raden Soekarno Atmodipuro"
-    } 
-  ]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
